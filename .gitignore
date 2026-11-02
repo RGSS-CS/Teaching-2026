@@ -1,0 +1,16 @@
+# obsidian
+**/.obsidian/plugins/
+**/.obsidian/workspace.json
+**/.obsidian/workspaces.json
+**/.obsidian/workspace-mobile.json
+.trash/
+
+# general cache files
+*.swp
+
+# large files
+Recordings
+*.mp4
+*.mkv
+*.mov
+*.MOV
